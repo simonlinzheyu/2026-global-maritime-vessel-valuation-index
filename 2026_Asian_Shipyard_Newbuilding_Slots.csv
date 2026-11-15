@@ -1,0 +1,5 @@
+Vessel_Design,DWT_Capacity,Shipyard_Tier,Contract_Price_USD,Earliest_Delivery_Slot,Lead_Time_Months,Analysis_Source_URL
+Capesize Bulker,180000,Tier-1 China/Korea,$74.5M - $77.0M,H2 2029,40 - 44 Months,https://shipstrading.com/maritime-insights/china-shipbuilding-yard-berths-bottleneck-prompt-tonnage-strategy/
+Kamsarmax Bulker,82000,Tier-1 China/Japan,$36.5M - $38.2M,Q1 - Q2 2029,36 - 42 Months,https://shipstrading.com/maritime-insights/china-shipbuilding-yard-berths-bottleneck-prompt-tonnage-strategy/
+Ultramax Bulker,64000,Tier-1/2 China,$33.5M - $35.0M,Q4 2028 - Q1 2029,34 - 38 Months,https://shipstrading.com/maritime-insights/2026-dry-bulk-asset-valuation-report/
+Handysize Bulker,40000,Tier-1/2 China,$30.0M - $31.5M,H2 2028,30 - 36 Months,https://shipstrading.com/maritime-insights/2026-dry-bulk-asset-valuation-report/
