@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this maritime valuation dataset, please cite it as below."
+title: "September 2026 Global Dry Bulk Second-Hand S&P Valuation Index"
+authors:
+  - name: "ShipsTrading Maritime Intelligence"
+date-released: 2026-11-17
+doi: 10.5281/zenodo.24239681
+url: "https://shipstrading.com/september-2026-dry-bulk-sp-sales-valuation-report/"
